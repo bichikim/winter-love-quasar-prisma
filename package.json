@@ -1,0 +1,11 @@
+{
+  "name": "winter-love-quasar-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bichikim/winter-love-quasar-prisma.git",
+  "author": "Bichi Kim <bichi@live.co.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^1.34.10"
+  }
+}
